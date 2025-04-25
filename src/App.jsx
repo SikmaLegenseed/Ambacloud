@@ -5,7 +5,7 @@ import './index.css'
 import Navbar from './assets/component/Navbar'
 import Hero from './assets/component/Hero'
 import List from './assets/component/List'
-import Social from './assets/component/Social'
+import Footer from './assets/component/Footer'
 
 
 function App() {
@@ -15,7 +15,7 @@ function App() {
       <Navbar></Navbar>
       <Hero></Hero>
       <List></List>
-      <Social></Social>
+      <Footer></Footer>
     </>
   )
 }

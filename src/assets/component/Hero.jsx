@@ -4,7 +4,7 @@ import "../../index.css";
 
 function Hero () {
     return (
-        <div className="container mx-auto grid grid-cols-2 gap-4 mt-20">
+        <div id="home" className="container mx-auto grid grid-cols-2 gap-4 mt-20">
             <div className="col-span-1">
                 <img src={scp} alt="Boneka Ambalabu" className="w-[400px] h-[400px] object-cover mx-auto" />
             </div>

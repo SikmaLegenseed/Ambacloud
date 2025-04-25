@@ -7,9 +7,9 @@ function Navbar() {
       <header className="w-full px-6 py-4 flex items-center justify-between bg-white shadow-sm sticky top-0 z-50">
         {/* Left Menu */}
         <nav className="hidden md:flex gap-6 text-sm font-medium text-gray-700">
-          <a href="#">Tes</a>
-          <a href="#">Tes</a>
-          <a href="#">Tes</a>
+          <a href="#home">Home</a>
+          <a href="#menu">Menu</a>
+          <a href="#clock">Clock</a>
         </nav>
 
         {/* Center Logo */}

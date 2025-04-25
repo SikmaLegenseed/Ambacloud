@@ -2,3 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+    @apply font-melon;
+    @apply bg-slate-100
+}
+
+html {
+    scroll-behavior: smooth;
+}
